@@ -31,7 +31,7 @@
     <main>
         <section>
             <h2>Consegna n. 1</h2>
-            <p class="description">Scrivere a schermo la lunghezza del paragrafo creata in php</p>
+            <p class="description">Scrivere a schermo la lunghezza del paragrafo creato in php</p>
             <p class="solution">
                 <mark><?php echo $textLength ?></mark> 
             </p>
